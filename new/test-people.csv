@@ -1,0 +1,6 @@
+email,identifier,Campus,Legal Name,cardholderGroupName,managerEmail,sendInvitation,action,additionalPhotoRequired,managerIdentifier,managerCardholderGroupName
+cloudcard.demo@gmail.com,00450731-demo,Alamo,William Travis,bacon,gm@foo.edu,false,create,true,gm123,Alamo
+tony+null@sharptop.net,00450831-demo,San Jacinto,Sam Huston,Default,gm@foo.edu,null,create,false,gm123,Alamo
+tony+true@sharptop.net,00450832-demo,San Jacinto,Sam Huston,Default,gm@foo.edu,true,create,true,gm123,Alamo
+tony+false@sharptop.net,00450833-demo,San Jacinto,Sam Huston,Default,gm@foo.edu,false,create,null,gm123,Alamo
+tony+blank@sharptop.net,00450834-demo,San Jacinto,Sam Huston,Default,gm@foo.edu, ,create, ,gm123,Alamo
